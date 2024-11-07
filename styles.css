@@ -1,0 +1,28 @@
+
+img{
+    height: 200px;
+    max-width: 300px;
+}
+section{
+    display: flex;
+    gap: 10px;
+    margin: 50px 0;
+}
+#entret h2{
+    color: blue;
+}
+#entret h3{
+    font-size: 25px;
+}
+#entret a{
+    color: orange;
+}
+#tech h2{
+    color: red;
+}
+#tech h3{
+    font-size: 25px;
+}
+#tech a{
+    color: red;
+}
